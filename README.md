@@ -29,3 +29,13 @@ Output: true
 
 ![img.png](imgs/array_contain_duplicate.jpg)
 
+**3. Valid Anagram**
+
+Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+Example 1:
+Input: s = "anagram", t = "nagaram"
+Output: true
+
+![img.png](imgs/array_anagram.jpg)
